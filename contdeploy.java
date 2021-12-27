@@ -1,4 +1,4 @@
-// Your First Project to select from bottom ok na inka last time chaalu
+// Your First Project to select from bottom
 
 class HelloWorld {
     public static void main(String[] args) {
